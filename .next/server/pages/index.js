@@ -1396,13 +1396,13 @@ const Section_uno = ()=>{
             /*#__PURE__*/ jsx_runtime_.jsx("div", {
                 className: (section_uno_module_default()).bloqueDer,
                 children: width <= 610 ? /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/barcelona_mobil.webp",
+                    src: "/divisa-mobil.webp",
                     alt: "Casas de cambio Barcelona",
                     className: (section_uno_module_default()).madridMobil,
                     width: 290,
                     height: 220
                 }) : /*#__PURE__*/ jsx_runtime_.jsx("img", {
-                    src: "/barcelona.webp",
+                    src: "/divisa.webp",
                     alt: "Casas de cambio Barcelona",
                     className: (section_uno_module_default()).vector,
                     width: 480,
