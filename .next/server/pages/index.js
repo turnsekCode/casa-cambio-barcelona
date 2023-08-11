@@ -2396,7 +2396,7 @@ const SectionTres = ()=>{
                             /*#__PURE__*/ (0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxs)("p", {
                                 children: [
                                     /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("span", {
-                                        children: "En Quickgold tenemos actualmente 3 casas de cambio para que puedas cambiar moneda extrajera f\xe1cil y r\xe1pido."
+                                        children: "En Quickgold tenemos actualmente 5 casas de cambio para que puedas cambiar moneda extrajera f\xe1cil y r\xe1pido."
                                     }),
                                     "Tenemos m\xe1s de 30 divisas disponibles para ofrecerte el mejor servicio."
                                 ]
